@@ -3,7 +3,7 @@ Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio com 
 
 # 🕸 Informações Profissionais
 Atualmente faço informática no segundo ano do Instituto Federal de Educação, Ciências e Tecnologia do Maranhão
-Sempre buscando novos ensinamentos
+ buscando novos ensinamentos
 
 <img alt="Spiderman" src="https://images.app.goo.gl/XT3eAvgstyz64E2AA" align="right">
 
