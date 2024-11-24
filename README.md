@@ -4,7 +4,7 @@ Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio.
 # 🕸 Informações Profissionais
 Atualmente faço informática no segundo ano do Instituto Federal de Educação, Ciências e Tecnologia do Maranhão
  buscando novos ensinamentos
-<p> <img alt="Spiderman" src="https://images.app.goo.gl/XT3eAvgstyz64E2AA" align="right"></p>
+<p> <img alt="Spiderman" src="https://images.app.goo.gl/mfGcGB8TuHLBsHXdA" align="right"></p>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
