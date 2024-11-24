@@ -1,5 +1,5 @@
 # 🕷 About Me:
-Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio com o objetivo de adquirir novos conhecimentos
+Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio.
 
 # 🕸 Informações Profissionais
 Atualmente faço informática no segundo ano do Instituto Federal de Educação, Ciências e Tecnologia do Maranhão
