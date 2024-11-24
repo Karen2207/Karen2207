@@ -1,5 +1,9 @@
 # 💫 About Me:
-Olá, me chamo Karen Lopes, tenho 17 anos e atualmente estou cursando informática 2 no IFMA<br>sempre adquirindo novos conhecimentos.
+Olá, me chamo Karen Lopes, tenho 17 anos e sou uma estudante do ensino médio.
+
+
+# Informações profissionais
+Atualmente estou cursando informática 2 no IFMA<br>sempre adquirindo novos conhecimentos.
 
 
 # 💻 Tech Stack:
