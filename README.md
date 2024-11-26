@@ -3,8 +3,10 @@ Olá, eu me chamo Karen Lopes e tenho 17 anos, sou uma estudante do ensino médi
 
 ###
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/uVyQ1CpGBQEAAAAC/miles-morales-miles.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/BrnE66IHQQsAAAAd/spider-man-miles-morales-spider-man.gif"  />
 </div>
+
+###
 
 ###
 
