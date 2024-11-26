@@ -32,9 +32,10 @@ Olá, eu me chamo Karen Lopes e tenho 17 anos, sou uma estudante do ensino médi
 Atualmente, sou estudante de Informática no segundo ano do Instituto Federal (IF), onde estou desenvolvendo habilidades técnicas em áreas como programação, redes, sistemas operacionais e banco de dados. Embora ainda esteja em formação, tenho uma grande admiração em desafios tecnológicos. Estou aberta a novos desafios que me permitam aprimorar minhas habilidades e contribuir para a área de tecnologia.
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/tiNaEOmUdNkAAAAM/spider-man-miles-morales.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/Pbba1PtyW5sAAAAd/gotime-spiderman.gif"  />
 </div>
 
+###
 ###
 
 ###
