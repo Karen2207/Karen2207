@@ -2,9 +2,11 @@
 Olá, eu me chamo Karen Lopes e tenho 17 anos, sou uma estudante do ensino médio. Tenho uma grande admiração por tecnologia e estou sempre buscando aprender mais sobre programação.<br>
 
 ###
-<div align="right">
-  <img height="90" src="https://i.pinimg.com/736x/a6/2b/21/a62b21a1375644cad16529fa6d4c73b7.jpg"  />
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/uVyQ1CpGBQEAAAAC/miles-morales-miles.gif"  />
 </div>
+
+###
 
 ###
 ###
