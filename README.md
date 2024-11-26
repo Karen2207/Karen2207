@@ -22,7 +22,7 @@ Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio. Ten
 
 ###
 # Informações Profissionais : 🕸
-Atualmente, sou estudante de Informática no segundo ano do Instituto Federal (IF), onde estou desenvolvendo habilidades técnicas em áreas como programação, redes, sistemas operacionais e banco de dados. Embora ainda esteja em formação, tenho uma grande vontade de aplicar o conhecimento adquirido em projetos práticos e colaborar com equipes em desafios tecnológicos. Busco oportunidades para aprender e crescer profissionalmente, focando em áreas como desenvolvimento de software, suporte técnico ou administração de redes. Estou aberta a novos desafios que me permitam aprimorar minhas habilidades e contribuir para a área de tecnologia.
+Atualmente, sou estudante de Informática no segundo ano do Instituto Federal (IF), onde estou desenvolvendo habilidades técnicas em áreas como programação, redes, sistemas operacionais e banco de dados. Embora ainda esteja em formação, tenho uma grande admiração em desafios tecnológicos. Busco oportunidades para aprender e crescer profissionalmente. Estou aberta a novos desafios que me permitam aprimorar minhas habilidades e contribuir para a área de tecnologia.
 
 # Redes sociais: 🗝
 <div align="left">
