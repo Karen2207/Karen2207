@@ -2,7 +2,7 @@
 Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio. Tenho uma grande admiração por tecnologia e estou sempre buscando aprender mais sobre programação.<br>
 
 <div align="left">
-  <img height="200" src="https://i.pinimg.com/originals/ef/9e/9d/ef9e9d4d840c099d4ecd51a68e36c9f9.gif"  />
+  <img height="90" src="https://i.pinimg.com/originals/ef/9e/9d/ef9e9d4d840c099d4ecd51a68e36c9f9.gif"  />
 </div>
 
 ###
