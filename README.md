@@ -36,7 +36,6 @@ Atualmente, sou estudante de Informática no segundo ano do Instituto Federal (I
 
 ###
 
-<img src="https://raw.githubusercontent.com/karen2207/karen2207/output/snake.svg" alt="Snake animation" />
 
 ###
 
