@@ -1,12 +1,11 @@
 # Sobre mim: 🕷
 Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio. Tenho uma grande admiração por tecnologia e estou sempre buscando aprender mais sobre programação.<br>
 
-#
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://pin.it/3Beioa9mN"  />
+  <img height="200" src="https://i.pinimg.com/736x/1b/d7/e5/1bd7e5ac0348c2d8cf4f2396d6c390c0.jpg"  />
 </div>
+
+###
 
 ###
 # Informações Profissionais : 🕸
