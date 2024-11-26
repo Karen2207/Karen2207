@@ -9,20 +9,20 @@ Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio. Ten
 
 # Habilidades Profissionais: ✒️
 
-📚:Sou uma pessoa que valoriza a organização e a responsabilidade em tudo o que faço.
+📚:Sou uma pessoa que valoriza a organização e a responsabilidade.
 
 🕠:Busco cumprir prazos e manter a qualidade nas minhas atividades.
 
 🗣: Facilidade para trabalhar em equipe, contribuindo com ideias criativas e mantendo uma comunicação clara e eficiente com todos ao meu redor.
 
-👩‍💻: Minha determinação e foco são diferenciais que me ajudam a enfrentar desafios e alcançar os objetivos que me proponho. 
+👩‍💻: Minha determinação e foco me ajudam a enfrentar desafios e alcançar os objetivos.
 
-💡: Gosto de usar minha criatividade para solucionar problemas e encontrar novas formas de lidar com as situações, tanto no âmbito acadêmico quanto pessoal.
+💡: Gosto de usar minha criatividade para solucionar problemas e encontrar novas formas de lidar com as situações
 
 
 ###
 # Informações Profissionais : 🕸
-Atualmente, sou estudante de Informática no segundo ano do Instituto Federal (IF), onde estou desenvolvendo habilidades técnicas em áreas como programação, redes, sistemas operacionais e banco de dados. Embora ainda esteja em formação, tenho uma grande admiração em desafios tecnológicos. Busco oportunidades para aprender e crescer profissionalmente. Estou aberta a novos desafios que me permitam aprimorar minhas habilidades e contribuir para a área de tecnologia.
+Atualmente, sou estudante de Informática no segundo ano do Instituto Federal (IF), onde estou desenvolvendo habilidades técnicas em áreas como programação, redes, sistemas operacionais e banco de dados. Embora ainda esteja em formação, tenho uma grande admiração em desafios tecnológicos. Estou aberta a novos desafios que me permitam aprimorar minhas habilidades e contribuir para a área de tecnologia.
 
 # Redes sociais: 🗝
 <div align="left">
