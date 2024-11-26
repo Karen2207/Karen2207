@@ -1,5 +1,5 @@
 # Sobre mim: 🕷
-Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio. Tenho uma grande admiração por tecnologia e estou sempre buscando aprender mais sobre programação.<br>
+Olá, eu me chamo Karen Lopes e tenho 17 anos, sou uma estudante do ensino médio. Tenho uma grande admiração por tecnologia e estou sempre buscando aprender mais sobre programação.<br>
 
 ###
 <div align="right">
