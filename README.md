@@ -17,16 +17,15 @@ Olá, eu me chamo Karen Lopes e tenho 17 anos, sou uma estudante do ensino médi
 
 # Habilidades Profissionais: ✒️
 
-📚:Sou uma pessoa que valoriza a organização e a responsabilidade.
+📚: Sou uma pessoa que valoriza a organização e a responsabilidade.
 
-🕠:Busco cumprir prazos e manter a qualidade nas minhas atividades.
+🕠: Busco cumprir prazos e manter a qualidade nas minhas atividades.
 
-🗣: Facilidade para trabalhar em equipe, contribuindo com ideias criativas e mantendo uma comunicação clara e eficiente com todos ao meu redor.
+🗣: Facilidade para trabalhar em equipe.
 
-👩‍💻: Minha determinação e foco me ajudam a enfrentar desafios e alcançar os objetivos.
+👩‍💻: Tenho determinação e foco para alcançar os objetivos.
 
-💡: Gosto de usar minha criatividade para solucionar problemas e encontrar novas formas de lidar com as situações
-
+💡: Me considero criativa.
 
 ###
 # Informações Profissionais : 🕸
