@@ -7,7 +7,8 @@ Olá, eu me chamo Karen e tenho 17 anos, sou uma estudante do ensino médio. Ten
 
 ###
 
-#Habilidades Profissionais: ✒️
+# Habilidades Profissionais: ✒️
+
 Sou uma pessoa que valoriza a organização e a responsabilidade em tudo o que faço, sempre buscando cumprir prazos e manter a qualidade nas minhas atividades. Tenho facilidade para trabalhar em equipe, contribuindo com ideias criativas e mantendo uma comunicação clara e eficiente com todos ao meu redor.
 Minha determinação e foco são diferenciais que me ajudam a enfrentar desafios e alcançar os objetivos que me proponho. Além disso, gosto de usar minha criatividade para solucionar problemas e encontrar novas formas de lidar com as situações, tanto no âmbito acadêmico quanto pessoal.
 
