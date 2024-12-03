@@ -25,9 +25,6 @@ Olá, eu me chamo Karen Lopes e tenho 17 anos, sou uma estudante do ensino médi
 
 💡: Me considero criativa.
 
-# Habilidades como Programadora: 🗣
-Desenvolvi uma base sólida em programação e tecnologia, tenho um conhecimento simples sobre linguagens como JavaScript, Python, C++ e Java, além de conhecimentos em desenvolvimento web com HTML, CSS e frameworks como Bootstrap.
-Durante meus estudos, realizei exercícios e práticas que me ajudaram a entender conceitos importantes sobre lógica de programação, estrutura de dados, designs e etc.
 
 ###
 # Informações Profissionais : 🕸
